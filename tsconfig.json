@@ -1,0 +1,1 @@
+{"compilerOptions": {"target": "ESNext","useDefineForClassFields": true,"lib": ["DOM","ESNext"],"strict": true,"esModuleInterop": true,"module": "ESNext","moduleResolution": "Node","skipLibCheck": true,"forceConsistentCasingInFileNames": true,"jsx": "react-jsx"}}
